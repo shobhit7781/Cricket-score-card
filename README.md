@@ -45,13 +45,11 @@ No npm, no build tools, no backend. One file, open and play.
 ## 🚀 Usage
 
 ### Option 1 — Open locally
-Just double-click `cricket-scoreboard.html` in any browser. No server needed.
+Just double-click `index.html` in any browser. No server needed.
 
 ### Option 2 — Host it online
-Drop the file on any static host:
-- **[GitHub Pages](https://pages.github.com/)** — push to a repo and enable Pages
-- **[Netlify Drop](https://app.netlify.com/drop)** — drag and drop the file
-- **[Vercel](https://vercel.com/)** — import the repo and deploy
+
+- **[Vercel]([https://pages.github.com/](https://cricket-score-card-swart.vercel.app/))** 
 
 ---
 
